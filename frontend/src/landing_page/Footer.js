@@ -4,7 +4,7 @@ function Footer() {
         <div className='container border-top mt-5'>
             <div className='row mt-5'>
                 <div className='col'>
-                    <img src='media/images/logo.svg' style={{width:"50%"}}></img>
+                    <img src='media/images/logo.svg' alt="Zerodha Logo" style={{width:"50%"}}></img>
                     <p className='no-link-style'>&copy; 2010 - 2025, Zerodha Broking Ltd.All rights reserved.</p>
                     <ul className="social-icons">
                         <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
@@ -18,45 +18,45 @@ function Footer() {
                 </div>
                 <div className='col'>
                     <p>Account</p>
-                    <a href= "" className='no-link-style' >Open demat account</a><br/>
-                    <a href= "" className='no-link-style' >Minor demat account</a><br/>
-                    <a href= "" className='no-link-style' >NRI demat account</a><br/>
-                    <a href= "" className='no-link-style' >Commodity</a><br/>
-                    <a href= "" className='no-link-style' >Dematerialisation</a><br/>
-                    <a href= "" className='no-link-style' >Fund transfer</a><br/>
-                    <a href= "" className='no-link-style' >MTF</a><br/>
-                    <a href= "" className='no-link-style' >Referral program</a><br/>
+                    <a href= "#" className='no-link-style' >Open demat account</a><br/>
+                    <a href= "#" className='no-link-style' >Minor demat account</a><br/>
+                    <a href= "#" className='no-link-style' >NRI demat account</a><br/>
+                    <a href= "#" className='no-link-style' >Commodity</a><br/>
+                    <a href= "#" className='no-link-style' >Dematerialisation</a><br/>
+                    <a href= "#" className='no-link-style' >Fund transfer</a><br/>
+                    <a href= "#" className='no-link-style' >MTF</a><br/>
+                    <a href= "#" className='no-link-style' >Referral program</a><br/>
                 </div>
                 <div className='col'>
                     <p>Support</p>
-                    <a href= "" className='no-link-style' >Contact us</a><br/>
-                    <a href= "" className='no-link-style' >Support portal</a><br/>
-                    <a href= "" className='no-link-style' >How to file a complaint?</a><br/>
-                    <a href= "" className='no-link-style' >Status of your complaints</a><br/>
-                    <a href= "" className='no-link-style' >Bulletin</a><br/>
-                    <a href= "" className='no-link-style' >Circular</a><br/>
-                    <a href= "" className='no-link-style' >Z-Connect blog</a><br/>
-                    <a href= "" className='no-link-style' >Downloads</a><br/>
+                    <a href= "#" className='no-link-style' >Contact us</a><br/>
+                    <a href= "#" className='no-link-style' >Support portal</a><br/>
+                    <a href= "#" className='no-link-style' >How to file a complaint?</a><br/>
+                    <a href= "#" className='no-link-style' >Status of your complaints</a><br/>
+                    <a href= "#" className='no-link-style' >Bulletin</a><br/>
+                    <a href= "#" className='no-link-style' >Circular</a><br/>
+                    <a href= "#" className='no-link-style' >Z-Connect blog</a><br/>
+                    <a href= "#" className='no-link-style' >Downloads</a><br/>
                 </div>
                 <div className='col'>
                     <p>Company</p>
-                    <a href= "" className='no-link-style' >About</a><br/>
-                    <a href= "" className='no-link-style' >Philosophy</a><br/>
-                    <a href= "" className='no-link-style' >Press & media</a><br/>
-                    <a href= "" className='no-link-style' >Careers</a><br/>
-                    <a href= "" className='no-link-style' >Zerodha Cares (CSR)</a><br/>
-                    <a href= "" className='no-link-style' >Zerodha.tech</a><br/>
-                    <a href= "" className='no-link-style' >Open source</a><br/>
+                    <a href= "#" className='no-link-style' >About</a><br/>
+                    <a href= "#" className='no-link-style' >Philosophy</a><br/>
+                    <a href= "#" className='no-link-style' >Press & media</a><br/>
+                    <a href= "#" className='no-link-style' >Careers</a><br/>
+                    <a href= "#" className='no-link-style' >Zerodha Cares (CSR)</a><br/>
+                    <a href= "#" className='no-link-style' >Zerodha.tech</a><br/>
+                    <a href= "#" className='no-link-style' >Open source</a><br/>
                 </div>
                 <div className='col'>
                     <p>Quick links</p>
-                    <a href="" className='no-link-style' >Upcoming IPOs</a><br/>
-                    <a href="" className='no-link-style' >Brokerage charges</a><br/>
-                    <a href="" className='no-link-style' >Market holidays</a><br/>
-                    <a href="" className='no-link-style' >Economic calendar</a><br/>
-                    <a href="" className='no-link-style' >Calculators</a><br/>
-                    <a href="" className='no-link-style' >Markets</a><br/>
-                    <a href="" className='no-link-style' >Sectors</a><br/>
+                    <a href="#" className='no-link-style' >Upcoming IPOs</a><br/>
+                    <a href="#" className='no-link-style' >Brokerage charges</a><br/>
+                    <a href="#" className='no-link-style' >Market holidays</a><br/>
+                    <a href="#" className='no-link-style' >Economic calendar</a><br/>
+                    <a href="#" className='no-link-style' >Calculators</a><br/>
+                    <a href="#" className='no-link-style' >Markets</a><br/>
+                    <a href="#" className='no-link-style' >Sectors</a><br/>
                 </div>
             </div>
             <div className='mt-5 text-muted no-link-style' style={{fontSize:"12px"}}>
